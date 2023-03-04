@@ -1,0 +1,21 @@
+.footer {
+    width: 100%;
+    font-size: medium;
+  }
+  
+  .footerLists {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    margin-bottom: 2%;
+  }
+  
+  .footerList {
+    list-style: none;
+  }
+  
+  .footerListItem {
+    margin-bottom: 10px;
+    color: #003580;
+    cursor: pointer;
+  }
